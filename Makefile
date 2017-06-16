@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := http_request
+PROJECT_NAME := esp32-httpd-app
 
 include $(IDF_PATH)/make/project.mk
 
